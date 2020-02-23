@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/Users/jasonstokes/Projects/infra/puppet_wordpress/shell","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jasonstokes/Projects/infra/puppet_wordpress","disabled":false,"__vagrantfile":true}}}
